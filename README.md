@@ -30,4 +30,4 @@ This is a simple To-Do List application made using *HTML, **CSS, and **JavaScrip
 
 ## 🙋‍♂ Author
 
-Built by [Your Name]
+Built by Anirudh Mamilla
